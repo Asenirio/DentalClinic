@@ -1,2 +1,2 @@
-# DentalClinic
-DentalClinic Description
+# Clinicportal
+Clinicportal Description
